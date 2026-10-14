@@ -1,0 +1,257 @@
+country,latitude,longitude,name,Country,Country code (Alpha-2),Country code (Alpha-3),Currency,Currency code,_merge
+,,,,Ascension Island,AC,ASC,Saint Helena Pound,SHP,solo en Currencies
+AD,42.546245,1.601554,Andorra,Andorra,AD,AND,Euro,EUR,en ambas tablas
+AE,23.424076,53.847818,United Arab Emirates,United Arab Emirates,AE,ARE,United Arab Emirates Dirham,AED,en ambas tablas
+AF,33.93911,67.709953,Afghanistan,Afghanistan,AF,AFG,Afghan Afghani,AFN,en ambas tablas
+AG,17.060816,-61.796428,Antigua and Barbuda,Antigua and Barbuda,AG,ATG,East Caribbean Dollar,XCD,en ambas tablas
+AI,18.220554,-63.068615,Anguilla,Anguilla,AI,AIA,East Caribbean Dollar,XCD,en ambas tablas
+AL,41.153332,20.168331,Albania,Albania,AL,ALB,Albanian Lek,ALL,en ambas tablas
+AM,40.069099,45.038189,Armenia,Armenia,AM,ARM,Armenian Dram,AMD,en ambas tablas
+AN,12.226079,-69.060087,Netherlands Antilles,Netherlands Antilles,AN,ANT,Netherlands Antillean Guilder,ANG,en ambas tablas
+AO,-11.202692,17.873887,Angola,Angola,AO,AGO,Angolan Kwanza,AOA,en ambas tablas
+AQ,-75.250973,-0.071389,Antarctica,Antarctica,AQ,ATA,US Dollar,USD,en ambas tablas
+AR,-38.416097,-63.616672,Argentina,Argentina,AR,ARG,Argentine Peso,ARS,en ambas tablas
+AS,-14.270972,-170.132217,American Samoa,American Samoa,AS,ASM,US Dollar,USD,en ambas tablas
+AT,47.516231,14.550072,Austria,Austria,AT,AUT,Euro,EUR,en ambas tablas
+AU,-25.274398,133.775136,Australia,Australia,AU,AUS,Australian Dollar,AUD,en ambas tablas
+AW,12.52111,-69.968338,Aruba,Aruba,AW,ABW,Aruban Florin,AWG,en ambas tablas
+,,,,ALand Islands,AX,ALA,Euro,EUR,solo en Currencies
+AZ,40.143105,47.576927,Azerbaijan,Azerbaijan,AZ,AZE,Azerbaijani Manat,AZN,en ambas tablas
+BA,43.915886,17.679076,Bosnia and Herzegovina,Bosnia and Herzegovina,BA,BIH,Bosnia-Herzegovina Convertible Mark,BAM,en ambas tablas
+BB,13.193887,-59.543198,Barbados,Barbados,BB,BRB,Barbadian Dollar,BBD,en ambas tablas
+BD,23.684994,90.356331,Bangladesh,Bangladesh,BD,BGD,Bangladeshi Taka,BDT,en ambas tablas
+BE,50.503887,4.469936,Belgium,Belgium,BE,BEL,Euro,EUR,en ambas tablas
+BF,12.238333,-1.561593,Burkina Faso,Burkina Faso,BF,BFA,CFA Franc BCEAO,XOF,en ambas tablas
+BG,42.733883,25.48583,Bulgaria,Bulgaria,BG,BGR,Bulgarian Lev,BGN,en ambas tablas
+BH,25.930414,50.637772,Bahrain,Bahrain,BH,BHR,Bahraini Dinar,BHD,en ambas tablas
+BI,-3.373056,29.918886,Burundi,Burundi,BI,BDI,Burundian Franc,BIF,en ambas tablas
+BJ,9.30769,2.315834,Benin,Benin,BJ,BEN,CFA Franc BCEAO,XOF,en ambas tablas
+,,,,Saint BarthLemy,BL,BLM,Euro,EUR,solo en Currencies
+BM,32.321384,-64.75737,Bermuda,Bermuda,BM,BMU,Bermudan Dollar,BMD,en ambas tablas
+BN,4.535277,114.727669,Brunei,Brunei,BN,BRN,Brunei Dollar,BND,en ambas tablas
+BO,-16.290154,-63.588653,Bolivia,Bolivia,BO,BOL,Bolivian Boliviano,BOB,en ambas tablas
+BR,-14.235004,-51.92528,Brazil,Brazil,BR,BRA,Brazilian Real,BRL,en ambas tablas
+BS,25.03428,-77.39628,Bahamas,Bahamas,BS,BHS,Bahamian Dollar,BSD,en ambas tablas
+BT,27.514162,90.433601,Bhutan,Bhutan,BT,BTN,Indian Rupee,INR,en ambas tablas
+BV,-54.423199,3.413194,Bouvet Island,Bouvet Island,BV,BVT,Norwegian Krone,NOK,en ambas tablas
+BW,-22.328474,24.684866,Botswana,Botswana,BW,BWA,Botswanan Pula,BWP,en ambas tablas
+BY,53.709807,27.953389,Belarus,Belarus,BY,BLR,Belarusian Ruble,BYN,en ambas tablas
+BZ,17.189877,-88.49765,Belize,Belize,BZ,BLZ,Belize Dollar,BZD,en ambas tablas
+CA,56.130366,-106.346771,Canada,Canada,CA,CAN,Canadian Dollar,CAD,en ambas tablas
+CC,-12.164165,96.870956,Cocos [Keeling] Islands,Clipperton Island,CC,CCK,Australian Dollar,AUD,en ambas tablas
+CD,-4.038333,21.758664,Congo [DRC],Congo - Kinshasa,CD,COD,Congolese Franc,CDF,en ambas tablas
+CF,6.611111,20.939444,Central African Republic,Central African Republic,CF,CAF,CFA Franc BEAC,XAF,en ambas tablas
+CG,-0.228021,15.827659,Congo [Republic],Congo - Brazzaville,CG,COG,CFA Franc BEAC,XAF,en ambas tablas
+CH,46.818188,8.227512,Switzerland,Switzerland,CH,CHE,Swiss Franc,CHF,en ambas tablas
+CI,7.539989,-5.54708,Côte d'Ivoire,C�te d�Ivoire,CI,CIV,CFA Franc BCEAO,XOF,en ambas tablas
+CK,-21.236736,-159.777671,Cook Islands,Cook Islands,CK,COK,New Zealand Dollar,NZD,en ambas tablas
+CL,-35.675147,-71.542969,Chile,Chile,CL,CHL,Chilean Peso,CLP,en ambas tablas
+CM,7.369722,12.354722,Cameroon,Cameroon,CM,CMR,CFA Franc BEAC,XAF,en ambas tablas
+CN,35.86166,104.195397,China,China,CN,CHN,Chinese Yuan,CNY,en ambas tablas
+CO,4.570868,-74.297333,Colombia,Colombia,CO,COL,Colombian Peso,COP,en ambas tablas
+CR,9.748917,-83.753428,Costa Rica,Costa Rica,CR,CRI,Costa Rican Col�n,CRC,en ambas tablas
+,,,,Serbia and Montenegro,CS,SCG,Serbian Dinar,RSD,solo en Currencies
+CU,21.521757,-77.781167,Cuba,Cuba,CU,CUB,Cuban Peso,CUP,en ambas tablas
+CV,16.002082,-24.013197,Cape Verde,Cape Verde,CV,CPV,Cape Verdean Escudo,CVE,en ambas tablas
+,,,,Curacao,CW,CW,Netherlands Antillean Guilder,ANG,solo en Currencies
+CX,-10.447525,105.690449,Christmas Island,Christmas Island,CX,CXR,Australian Dollar,AUD,en ambas tablas
+CY,35.126413,33.429859,Cyprus,Cyprus,CY,CYP,Euro,EUR,en ambas tablas
+CZ,49.817492,15.472962,Czech Republic,Czech Republic,CZ,CZE,Czech Republic Koruna,CZK,en ambas tablas
+DE,51.165691,10.451526,Germany,Germany,DE,DEU,Euro,EUR,en ambas tablas
+DJ,11.825138,42.590275,Djibouti,Djibouti,DJ,DJI,Djiboutian Franc,DJF,en ambas tablas
+DK,56.26392,9.501785,Denmark,Denmark,DK,DNK,Danish Krone,DKK,en ambas tablas
+DM,15.414999,-61.370976,Dominica,Dominica,DM,DMA,East Caribbean Dollar,XCD,en ambas tablas
+DO,18.735693,-70.162651,Dominican Republic,Dominican Republic,DO,DOM,Dominican Peso,DOP,en ambas tablas
+DZ,28.033886,1.659626,Algeria,Algeria,DZ,DZA,Algerian Dinar,DZD,en ambas tablas
+EC,-1.831239,-78.183406,Ecuador,Ecuador,EC,ECU,US Dollar,USD,en ambas tablas
+EE,58.595272,25.013607,Estonia,Estonia,EE,EST,Euro,EUR,en ambas tablas
+EG,26.820553,30.802498,Egypt,Egypt,EG,EGY,Egyptian Pound,EGP,en ambas tablas
+EH,24.215527,-12.885834,Western Sahara,Western Sahara,EH,ESH,Moroccan Dirham,MAD,en ambas tablas
+ER,15.179384,39.782334,Eritrea,Eritrea,ER,ERI,Eritrean Nakfa,ERN,en ambas tablas
+ES,40.463667,-3.74922,Spain,Spain,ES,ESP,Euro,EUR,en ambas tablas
+ET,9.145,40.489673,Ethiopia,Ethiopia,ET,ETH,Ethiopian Birr,ETB,en ambas tablas
+FI,61.92411,25.748151,Finland,Finland,FI,FIN,Euro,EUR,en ambas tablas
+FJ,-16.578193,179.414413,Fiji,Fiji,FJ,FJI,Fijian Dollar,FJD,en ambas tablas
+FK,-51.796253,-59.523613,Falkland Islands [Islas Malvinas],Falkland Islands,FK,FLK,Falkland Islands Pound,FKP,en ambas tablas
+FM,7.425554,150.550812,Micronesia,Micronesia,FM,FSM,US Dollar,USD,en ambas tablas
+FO,61.892635,-6.911806,Faroe Islands,Faroe Islands,FO,FRO,Danish Krone,DKK,en ambas tablas
+FR,46.227638,2.213749,France,France,FR,FRA,Euro,EUR,en ambas tablas
+GA,-0.803689,11.609444,Gabon,Gabon,GA,GAB,CFA Franc BEAC,XAF,en ambas tablas
+GB,55.378051,-3.435973,United Kingdom,United Kingdom,GB,GBR,Pound Sterling,GBP,en ambas tablas
+GD,12.262776,-61.604171,Grenada,Grenada,GD,GRD,East Caribbean Dollar,XCD,en ambas tablas
+GE,42.315407,43.356892,Georgia,Georgia,GE,GEO,Georgian Lari,GEL,en ambas tablas
+GF,3.933889,-53.125782,French Guiana,French Guiana,GF,GUF,Euro,EUR,en ambas tablas
+GG,49.465691,-2.585278,Guernsey,Guernsey,GG,GGY,Pound Sterling,GBP,en ambas tablas
+GH,7.946527,-1.023194,Ghana,Ghana,GH,GHA,Ghanaian Cedi,GHS,en ambas tablas
+GI,36.137741,-5.345374,Gibraltar,Gibraltar,GI,GIB,Gibraltar Pound,GIP,en ambas tablas
+GL,71.706936,-42.604303,Greenland,Greenland,GL,GRL,Danish Krone,DKK,en ambas tablas
+GM,13.443182,-15.310139,Gambia,Gambia,GM,GMB,Gambian Dalasi,GMD,en ambas tablas
+GN,9.945587,-9.696645,Guinea,Guinea,GN,GIN,Guinean Franc,GNF,en ambas tablas
+GP,16.995971,-62.067641,Guadeloupe,Guadeloupe,GP,GLP,Euro,EUR,en ambas tablas
+GQ,1.650801,10.267895,Equatorial Guinea,Equatorial Guinea,GQ,GNQ,CFA Franc BEAC,XAF,en ambas tablas
+GR,39.074208,21.824312,Greece,Greece,GR,GRC,Euro,EUR,en ambas tablas
+GS,-54.429579,-36.587909,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,GS,SGS,Pound Sterling,GBP,en ambas tablas
+GT,15.783471,-90.230759,Guatemala,Guatemala,GT,GTM,Guatemalan Quetzal,GTQ,en ambas tablas
+GU,13.444304,144.793731,Guam,Guam,GU,GUM,US Dollar,USD,en ambas tablas
+GW,11.803749,-15.180413,Guinea-Bissau,Guinea-Bissau,GW,GNB,CFA Franc BCEAO,XOF,en ambas tablas
+GY,4.860416,-58.93018,Guyana,Guyana,GY,GUY,Guyanaese Dollar,GYD,en ambas tablas
+GZ,31.354676,34.308825,Gaza Strip,,,,,,solo en countries
+HK,22.396428,114.109497,Hong Kong,Hong Kong,HK,HKG,Hong Kong Dollar,HKD,en ambas tablas
+HM,-53.08181,73.504158,Heard Island and McDonald Islands,Heard Island and McDonald Islands,HM,HMD,Australian Dollar,AUD,en ambas tablas
+HN,15.199999,-86.241905,Honduras,Honduras,HN,HND,Honduran Lempira,HNL,en ambas tablas
+HR,45.1,15.2,Croatia,Croatia,HR,HRV,Croatian Kuna,HRK,en ambas tablas
+HT,18.971187,-72.285215,Haiti,Haiti,HT,HTI,Haitian Gourde,HTG,en ambas tablas
+HU,47.162494,19.503304,Hungary,Hungary,HU,HUN,Hungarian Forint,HUF,en ambas tablas
+,,,,Canary Islands,IC,,Euro,EUR,solo en Currencies
+ID,-0.789275,113.921327,Indonesia,Indonesia,ID,IDN,Indonesian Rupiah,IDR,en ambas tablas
+IE,53.41291,-8.24389,Ireland,Ireland,IE,IRL,Euro,EUR,en ambas tablas
+IL,31.046051,34.851612,Israel,Israel,IL,ISR,Israeli New Sheqel,ILS,en ambas tablas
+IM,54.236107,-4.548056,Isle of Man,Isle Of Man,IM,IMN,Pound Sterling,GBP,en ambas tablas
+IN,20.593684,78.96288,India,India,IN,IND,Indian Rupee,INR,en ambas tablas
+IO,-6.343194,71.876519,British Indian Ocean Territory,British Indian Ocean Territory,IO,IOT,US Dollar,USD,en ambas tablas
+IQ,33.223191,43.679291,Iraq,Iraq,IQ,IRQ,Iraqi Dinar,IQD,en ambas tablas
+IR,32.427908,53.688046,Iran,Iran,IR,IRN,Iranian Rial,IRR,en ambas tablas
+IS,64.963051,-19.020835,Iceland,Iceland,IS,ISL,Icelandic Kr�na,ISK,en ambas tablas
+IT,41.87194,12.56738,Italy,Italy,IT,ITA,Euro,EUR,en ambas tablas
+JE,49.214439,-2.13125,Jersey,Jersey,JE,JEY,Pound Sterling,GBP,en ambas tablas
+JM,18.109581,-77.297508,Jamaica,Jamaica,JM,JAM,Jamaican Dollar,JMD,en ambas tablas
+JO,30.585164,36.238414,Jordan,Jordan,JO,JOR,Jordanian Dinar,JOD,en ambas tablas
+JP,36.204824,138.252924,Japan,Japan,JP,JPN,Japanese Yen,JPY,en ambas tablas
+KE,-0.023559,37.906193,Kenya,Kenya,KE,KEN,Kenyan Shilling,KES,en ambas tablas
+KG,41.20438,74.766098,Kyrgyzstan,Kyrgyzstan,KG,KGZ,Kyrgystani Som,KGS,en ambas tablas
+KH,12.565679,104.990963,Cambodia,Cambodia,KH,KHM,Cambodian Riel,KHR,en ambas tablas
+KI,-3.370417,-168.734039,Kiribati,Kiribati,KI,KIR,Australian Dollar,AUD,en ambas tablas
+KM,-11.875001,43.872219,Comoros,Comoros,KM,COM,Comorian Franc,KMF,en ambas tablas
+KN,17.357822,-62.782998,Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA,East Caribbean Dollar,XCD,en ambas tablas
+KP,40.339852,127.510093,North Korea,North Korea,KP,PRK,North Korean Won,KPW,en ambas tablas
+KR,35.907757,127.766922,South Korea,South Korea,KR,KOR,South Korean Won,KRW,en ambas tablas
+KW,29.31166,47.481766,Kuwait,Kuwait,KW,KWT,Kuwaiti Dinar,KWD,en ambas tablas
+KY,19.513469,-80.566956,Cayman Islands,Cayman Islands,KY,CYM,Cayman Islands Dollar,KYD,en ambas tablas
+KZ,48.019573,66.923684,Kazakhstan,Kazakhstan,KZ,KAZ,Kazakhstani Tenge,KZT,en ambas tablas
+LA,19.85627,102.495496,Laos,Laos,LA,LAO,Laotian Kip,LAK,en ambas tablas
+LB,33.854721,35.862285,Lebanon,Lebanon,LB,LBN,Lebanese Pound,LBP,en ambas tablas
+LC,13.909444,-60.978893,Saint Lucia,Saint Lucia,LC,LCA,East Caribbean Dollar,XCD,en ambas tablas
+LI,47.166,9.555373,Liechtenstein,Liechtenstein,LI,LIE,Swiss Franc,CHF,en ambas tablas
+LK,7.873054,80.771797,Sri Lanka,Sri Lanka,LK,LKA,Sri Lankan Rupee,LKR,en ambas tablas
+LR,6.428055,-9.429499,Liberia,Liberia,LR,LBR,Liberian Dollar,LRD,en ambas tablas
+LS,-29.609988,28.233608,Lesotho,Lesotho,LS,LSO,Lesotho Loti,LSL,en ambas tablas
+LT,55.169438,23.881275,Lithuania,Lithuania,LT,LTU,Euro,EUR,en ambas tablas
+LU,49.815273,6.129583,Luxembourg,Luxembourg,LU,LUX,Euro,EUR,en ambas tablas
+LV,56.879635,24.603189,Latvia,Latvia,LV,LVA,Euro,EUR,en ambas tablas
+LY,26.3351,17.228331,Libya,Libya,LY,LBY,Libyan Dinar,LYD,en ambas tablas
+MA,31.791702,-7.09262,Morocco,Morocco,MA,MAR,Moroccan Dirham,MAD,en ambas tablas
+MC,43.750298,7.412841,Monaco,Monaco,MC,MCO,Euro,EUR,en ambas tablas
+MD,47.411631,28.369885,Moldova,Moldova,MD,MDA,Moldovan Leu,MDL,en ambas tablas
+ME,42.708678,19.37439,Montenegro,Montenegro,ME,MNE,Euro,EUR,en ambas tablas
+,,,,Saint Martin (French Part),MF,MAF,Euro,EUR,solo en Currencies
+MG,-18.766947,46.869107,Madagascar,Madagascar,MG,MDG,Malagasy Ariary,MGA,en ambas tablas
+MH,7.131474,171.184478,Marshall Islands,Marshall Islands,MH,MHL,US Dollar,USD,en ambas tablas
+MK,41.608635,21.745275,Macedonia [FYROM],Macedonia,MK,MKD,Macedonian Denar,MKD,en ambas tablas
+ML,17.570692,-3.996166,Mali,Mali,ML,MLI,CFA Franc BCEAO,XOF,en ambas tablas
+MM,21.913965,95.956223,Myanmar [Burma],Myanmar,MM,MMR,Myanma Kyat,MMK,en ambas tablas
+MN,46.862496,103.846656,Mongolia,Mongolia,MN,MNG,Mongolian Tugrik,MNT,en ambas tablas
+MO,22.198745,113.543873,Macau,Macau,MO,MAC,Macanese Pataca,MOP,en ambas tablas
+MP,17.33083,145.38469,Northern Mariana Islands,Northern Mariana Islands,MP,MNP,US Dollar,USD,en ambas tablas
+MQ,14.641528,-61.024174,Martinique,Martinique,MQ,MTQ,Euro,EUR,en ambas tablas
+MR,21.00789,-10.940835,Mauritania,Mauritania,MR,MRT,Ouguiya,MRU,en ambas tablas
+MS,16.742498,-62.187366,Montserrat,Montserrat,MS,MSR,East Caribbean Dollar,XCD,en ambas tablas
+MT,35.937496,14.375416,Malta,Malta,MT,MLT,Euro,EUR,en ambas tablas
+MU,-20.348404,57.552152,Mauritius,Mauritius,MU,MUS,Mauritian Rupee,MUR,en ambas tablas
+MV,3.202778,73.22068,Maldives,Maldives,MV,MDV,Maldivian Rufiyaa,MVR,en ambas tablas
+MW,-13.254308,34.301525,Malawi,Malawi,MW,MWI,Malawian Kwacha,MWK,en ambas tablas
+MX,23.634501,-102.552784,Mexico,Mexico,MX,MEX,Mexican Peso,MXN,en ambas tablas
+MY,4.210484,101.975766,Malaysia,Malaysia,MY,MYS,Malaysian Ringgit,MYR,en ambas tablas
+MZ,-18.665695,35.529562,Mozambique,Mozambique,MZ,MOZ,Mozambican Metical,MZN,en ambas tablas
+,,,,Namibia,NA,NAM,Namibian Dollar,NAD,solo en Currencies
+NC,-20.904305,165.618042,New Caledonia,New Caledonia,NC,NCL,CFP Franc,XPF,en ambas tablas
+NE,17.607789,8.081666,Niger,Niger,NE,NER,CFA Franc BCEAO,XOF,en ambas tablas
+NF,-29.040835,167.954712,Norfolk Island,Norfolk Island,NF,NFK,Australian Dollar,AUD,en ambas tablas
+NG,9.081999,8.675277,Nigeria,Nigeria,NG,NGA,Nigerian Naira,NGN,en ambas tablas
+NI,12.865416,-85.207229,Nicaragua,Nicaragua,NI,NIC,Nicaraguan C�rdoba,NIO,en ambas tablas
+NL,52.132633,5.291266,Netherlands,Netherlands,NL,NLD,Euro,EUR,en ambas tablas
+NO,60.472024,8.468946,Norway,Norway,NO,NOR,Norwegian Krone,NOK,en ambas tablas
+NP,28.394857,84.124008,Nepal,Nepal,NP,NPL,Nepalese Rupee,NPR,en ambas tablas
+NR,-0.522778,166.931503,Nauru,Nauru,NR,NRU,Australian Dollar,AUD,en ambas tablas
+NU,-19.054445,-169.867233,Niue,Niue,NU,NIU,New Zealand Dollar,NZD,en ambas tablas
+NZ,-40.900557,174.885971,New Zealand,New Zealand,NZ,NZL,New Zealand Dollar,NZD,en ambas tablas
+OM,21.512583,55.923255,Oman,Oman,OM,OMN,Omani Rial,OMR,en ambas tablas
+PA,8.537981,-80.782127,Panama,Panama,PA,PAN,Panamanian Balboa,PAB,en ambas tablas
+PE,-9.189967,-75.015152,Peru,Peru,PE,PER,Peruvian Nuevo Sol,PEN,en ambas tablas
+PF,-17.679742,-149.406843,French Polynesia,French Polynesia,PF,PYF,CFP Franc,XPF,en ambas tablas
+PG,-6.314993,143.95555,Papua New Guinea,Papua New Guinea,PG,PNG,Papua New Guinean Kina,PGK,en ambas tablas
+PH,12.879721,121.774017,Philippines,Philippines,PH,PHL,Philippine Peso,PHP,en ambas tablas
+PK,30.375321,69.345116,Pakistan,Pakistan,PK,PAK,Pakistani Rupee,PKR,en ambas tablas
+PL,51.919438,19.145136,Poland,Poland,PL,POL,Polish Zloty,PLN,en ambas tablas
+PM,46.941936,-56.27111,Saint Pierre and Miquelon,Saint Pierre and Miquelon,PM,SPM,Euro,EUR,en ambas tablas
+PN,-24.703615,-127.439308,Pitcairn Islands,Pitcairn,PN,PCN,New Zealand Dollar,NZD,en ambas tablas
+PR,18.220833,-66.590149,Puerto Rico,Puerto Rico,PR,PRI,US Dollar,USD,en ambas tablas
+PS,31.952162,35.233154,Palestinian Territories,Palestine,PS,PSE,Jordanian Dinar,JOD,en ambas tablas
+PT,39.399872,-8.224454,Portugal,Portugal,PT,PRT,Euro,EUR,en ambas tablas
+PW,7.51498,134.58252,Palau,Palau,PW,PLW,US Dollar,USD,en ambas tablas
+PY,-23.442503,-58.443832,Paraguay,Paraguay,PY,PRY,Paraguayan Guarani,PYG,en ambas tablas
+QA,25.354826,51.183884,Qatar,Qatar,QA,QAT,Qatari Rial,QAR,en ambas tablas
+RE,-21.115141,55.536384,Réunion,Reunion,RE,REU,Euro,EUR,en ambas tablas
+RO,45.943161,24.96676,Romania,Romania,RO,ROU,Romanian Leu,RON,en ambas tablas
+RS,44.016521,21.005859,Serbia,Serbia,RS,SRB,Serbian Dinar,RSD,en ambas tablas
+RU,61.52401,105.318756,Russia,Russia,RU,RUS,Russian Ruble,RUB,en ambas tablas
+RW,-1.940278,29.873888,Rwanda,Rwanda,RW,RWA,Rwandan Franc,RWF,en ambas tablas
+SA,23.885942,45.079162,Saudi Arabia,Saudi Arabia,SA,SAU,Saudi Riyal,SAR,en ambas tablas
+SB,-9.64571,160.156194,Solomon Islands,Solomon Islands,SB,SLB,Solomon Islands Dollar,SBD,en ambas tablas
+SC,-4.679574,55.491977,Seychelles,Seychelles,SC,SYC,Seychellois Rupee,SCR,en ambas tablas
+SD,12.862807,30.217636,Sudan,Sudan,SD,SDN,Sudanese Pound,SDG,en ambas tablas
+SE,60.128161,18.643501,Sweden,Sweden,SE,SWE,Swedish Krona,SEK,en ambas tablas
+SG,1.352083,103.819836,Singapore,Singapore,SG,SGP,Singapore Dollar,SGD,en ambas tablas
+SH,-24.143474,-10.030696,Saint Helena,Saint Helena,SH,SHN,Pound Sterling,GBP,en ambas tablas
+SI,46.151241,14.995463,Slovenia,Slovenia,SI,SVN,Euro,EUR,en ambas tablas
+SJ,77.553604,23.670272,Svalbard and Jan Mayen,Svalbard and Jan Mayen,SJ,SJM,Norwegian Krone,NOK,en ambas tablas
+SK,48.669026,19.699024,Slovakia,Slovakia,SK,SVK,Euro,EUR,en ambas tablas
+SL,8.460555,-11.779889,Sierra Leone,Sierra Leone,SL,SLE,Sierra Leonean Leone,SLL,en ambas tablas
+SM,43.94236,12.457777,San Marino,San Marino,SM,SMR,Euro,EUR,en ambas tablas
+SN,14.497401,-14.452362,Senegal,Senegal,SN,SEN,CFA Franc BCEAO,XOF,en ambas tablas
+SO,5.152149,46.199616,Somalia,Somalia,SO,SOM,Somali Shilling,SOS,en ambas tablas
+SR,3.919305,-56.027783,Suriname,Suriname,SR,SUR,Surinamese Dollar,SRD,en ambas tablas
+,,,,South Sudan,SS,SSD,South Sudanese Pound,SSP,solo en Currencies
+ST,0.18636,6.613081,São Tomé and Príncipe,Sao Tome and Principe,ST,STP,Dobra,STN,en ambas tablas
+SV,13.794185,-88.89653,El Salvador,El Salvador,SV,SLV,Salvadoran Col�n,SVC,en ambas tablas
+,,,,Sint Maarten (Dutch Part),SX,SXM,Netherlands Antillean Guilder,ANG,solo en Currencies
+SY,34.802075,38.996815,Syria,Syria,SY,SYR,Syrian Pound,SYP,en ambas tablas
+SZ,-26.522503,31.465866,Swaziland,Swaziland,SZ,SWZ,Swazi Lilangeni,SZL,en ambas tablas
+,,,,Tristan da Cunha,TA,,Saint Helena Pound,SHP,solo en Currencies
+TC,21.694025,-71.797928,Turks and Caicos Islands,Turks and Caicos Islands,TC,TCA,US Dollar,USD,en ambas tablas
+TD,15.454166,18.732207,Chad,Chad,TD,TCD,CFA Franc BEAC,XAF,en ambas tablas
+TF,-49.280366,69.348557,French Southern Territories,French Southern Territories,TF,ATF,Euro,EUR,en ambas tablas
+TG,8.619543,0.824782,Togo,Togo,TG,TGO,CFA Franc BCEAO,XOF,en ambas tablas
+TH,15.870032,100.992541,Thailand,Thailand,TH,THA,Thai Baht,THB,en ambas tablas
+TJ,38.861034,71.276093,Tajikistan,Tajikistan,TJ,TJK,Tajikistani Somoni,TJS,en ambas tablas
+TK,-8.967363,-171.855881,Tokelau,Tokelau,TK,TKL,New Zealand Dollar,NZD,en ambas tablas
+TL,-8.874217,125.727539,Timor-Leste,East Timor,TL,TLS,Indonesian Rupiah,IDR,en ambas tablas
+TM,38.969719,59.556278,Turkmenistan,Turkmenistan,TM,TKM,Turkmenistani Manat,TMT,en ambas tablas
+TN,33.886917,9.537499,Tunisia,Tunisia,TN,TUN,Tunisian Dinar,TND,en ambas tablas
+TO,-21.178986,-175.198242,Tonga,Tonga,TO,TON,Tongan Pa?anga,TOP,en ambas tablas
+TR,38.963745,35.243322,Turkey,Turkey,TR,TUR,Turkish Lira,TRY,en ambas tablas
+TT,10.691803,-61.222503,Trinidad and Tobago,Trinidad and Tobago,TT,TTO,Trinidad and Tobago Dollar,TTD,en ambas tablas
+TV,-7.109535,177.64933,Tuvalu,Tuvalu,TV,TUV,Australian Dollar,AUD,en ambas tablas
+TW,23.69781,120.960515,Taiwan,Taiwan,TW,TWN,New Taiwan Dollar,TWD,en ambas tablas
+TZ,-6.369028,34.888822,Tanzania,Tanzania,TZ,TZA,Tanzanian Shilling,TZS,en ambas tablas
+UA,48.379433,31.16558,Ukraine,Ukraine,UA,UKR,Ukrainian Hryvnia,UAH,en ambas tablas
+UG,1.373333,32.290275,Uganda,Uganda,UG,UGA,Ugandan Shilling,UGX,en ambas tablas
+UM,,,U.S. Minor Outlying Islands,U.S. Outlying Islands,UM,UMI,US Dollar,USD,en ambas tablas
+US,37.09024,-95.712891,United States,United States,US,USA,US Dollar,USD,en ambas tablas
+UY,-32.522779,-55.765835,Uruguay,Uruguay,UY,URY,Uruguayan Peso,UYU,en ambas tablas
+UZ,41.377491,64.585262,Uzbekistan,Uzbekistan,UZ,UZB,Uzbekistan Som,UZS,en ambas tablas
+VA,41.902916,12.453389,Vatican City,Vatican,VA,VAT,Euro,EUR,en ambas tablas
+VC,12.984305,-61.287228,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VCT,East Caribbean Dollar,XCD,en ambas tablas
+VE,6.42375,-66.58973,Venezuela,Venezuela,VE,VEN,Bol�var Soberano,VES,en ambas tablas
+VG,18.420695,-64.639968,British Virgin Islands,British Virgin Islands,VG,VGB,US Dollar,USD,en ambas tablas
+VI,18.335765,-64.896335,U.S. Virgin Islands,U.S. Virgin Islands,VI,VIR,US Dollar,USD,en ambas tablas
+VN,14.058324,108.277199,Vietnam,Vietnam,VN,VNM,Vietnamese Dong,VND,en ambas tablas
+VU,-15.376706,166.959158,Vanuatu,Vanuatu,VU,VUT,Vanuatu Vatu,VUV,en ambas tablas
+WF,-13.768752,-177.156097,Wallis and Futuna,Wallis and Futuna,WF,WLF,CFP Franc,XPF,en ambas tablas
+WS,-13.759029,-172.104629,Samoa,Samoa,WS,WSM,Samoan Tala,WST,en ambas tablas
+XK,42.602636,20.902977,Kosovo,Kosovo,XK,XKX,Euro,EUR,en ambas tablas
+YE,15.552727,48.516388,Yemen,Yemen,YE,YEM,Yemeni Rial,YER,en ambas tablas
+YT,-12.8275,45.166244,Mayotte,Mayotte,YT,MYT,Euro,EUR,en ambas tablas
+ZA,-30.559482,22.937506,South Africa,South Africa,ZA,ZAF,South African Rand,ZAR,en ambas tablas
+ZM,-13.133897,27.849332,Zambia,Zambia,ZM,ZMB,Zambian Kwacha,ZMW,en ambas tablas
+ZW,-19.015438,29.154857,Zimbabwe,Zimbabwe,ZW,ZWE,Zimbabwean Dollar,ZWL,en ambas tablas
+,-22.95764,18.49041,Namibia,,,,,,solo en countries
