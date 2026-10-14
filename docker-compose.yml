@@ -1,0 +1,12 @@
+services:
+  notebook:
+    build: .
+    ports:
+      # Solo accesible desde esta máquina
+      - "127.0.0.1:8888:8888"
+    volumes:
+      - ./work:/home/jovyan/work
+      # Datos del taller (en el notebook se leen como ../Data)
+      - ./Data:/home/jovyan/Data
+    # Jupyter Lab sin token ni contraseña (solo uso local)
+    command: start-notebook.py --IdentityProvider.token='' --ServerApp.password=''
