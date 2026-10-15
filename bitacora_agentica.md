@@ -1,5 +1,7 @@
 # 7\. Bitácora agéntica
 
+## Grupo: Juan Camilo Guerrero, Maria Camila Rincón, Juan Pablo Marin, Gabriel Camilo Velasquez, Luis Alberto Banda
+
 Registro de los prompts usados con el agente (Claude Code en VS Code) para el setup del entorno y los puntos del Taller 1.
 
 ## Consumo estimado
